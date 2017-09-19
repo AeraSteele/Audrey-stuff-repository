@@ -5,7 +5,7 @@ package lab2;
 import java.io.File;
 import java.util.Scanner;
 
-public class SeatMap {
+public class SeatMap { 
 
 	/**
 	 * @param args
